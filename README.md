@@ -7,7 +7,6 @@ This repository contains projects and assignments from the **AF3005 - Programmin
 - **Financial Data Analysis** – Extracting and analyzing market data
 - **Algorithmic Trading** – Implementing trading strategies
 - **Portfolio Optimization** – Risk-return optimization techniques
-- **Monte Carlo Simulations** – Stochastic modeling for financial forecasting
 - **Derivatives Pricing** – Pricing options and other financial instruments
 
 ## 🛠️ Technologies Used
