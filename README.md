@@ -23,7 +23,7 @@ This repository contains projects and assignments from the **AF3005 - Programmin
 ## 📌 How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/AF3005_ProgrammingForFinance.git
+   git clone https://github.com/fawad-liaqat/AF3005_ProgrammingForFinance.git
    ```
 2. Navigate into the folder:
    ```sh
@@ -36,7 +36,6 @@ This repository contains projects and assignments from the **AF3005 - Programmin
 4. Run the scripts and notebooks.
 
 ## 💡 About Me
-Aspiring fintech professional with a passion for financial engineering and algorithmic trading. Let’s connect on [LinkedIn](https://linkedin.com/in/yourprofile)!
+Aspiring fintech professional with a passion for financial engineering and algorithmic trading. Let’s connect on [LinkedIn](https://www.linkedin.com/in/fawad-liaqat-7173a6341)!
 
-## 📜 License
-This project is open-source under the **MIT License**.
+
