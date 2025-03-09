@@ -35,6 +35,6 @@ This repository contains projects and assignments from the **AF3005 - Programmin
 4. Run the scripts and notebooks.
 
 ## 💡 About Me
-Aspiring fintech professional with a passion for financial engineering and algorithmic trading. Let’s connect on [LinkedIn](https://www.linkedin.com/in/fawad-liaqat-7173a6341)!
+Aspiring fintech professional with a passion for financial engineering and algorithmic trading. Let’s connect on [LinkedIn](https://www.linkedin.com/in/fawad-liaqat/)!
 
 
