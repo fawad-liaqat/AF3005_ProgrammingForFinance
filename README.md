@@ -74,7 +74,7 @@ By completing this course, you’ll gain skills to:
 
 ## 💡 **About Me**  
 I’m an aspiring **fintech professional** passionate about **financial engineering**, **algorithmic trading**, and leveraging **Python and machine learning** to solve financial challenges.  
-Let’s connect on [**LinkedIn**](https://www.linkedin.com/in/fawad-liaqat/) and discuss fintech innovations!
+Let’s connect on <a href="https://www.linkedin.com/in/fawad-liaqat/" target="_blank"><b>LinkedIn</b></a> and discuss fintech innovations!
 
 ---
 
